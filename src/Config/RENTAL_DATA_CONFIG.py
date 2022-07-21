@@ -1,0 +1,1 @@
+TRULIA_FIRST_HEADERS = ['streetAddress', 'addressLocality', 'addressRegion', 'postalCode', 'url']
